@@ -1,7 +1,5 @@
 # Cloud Time Series Forecasting
 
-## Overview
-
 This project implements time-series forecasting of cloud resource utilization and billing cost using ARIMA and SARIMA models.
 
 The objective is to predict:
@@ -11,8 +9,6 @@ The objective is to predict:
 - Cloud Cost
 
 using historical daily data.
-
----
 
 ## Dataset
 
@@ -49,11 +45,3 @@ using historical daily data.
 - Low RMSE and MAE values observed.
 - Residual diagnostics indicate model stability.
 
----
-
-## Future Work
-
-- Real-time cloud monitoring integration
-- Dashboard visualization
-- Automated anomaly detection
-- Cost optimization system
